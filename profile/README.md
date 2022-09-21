@@ -10,7 +10,7 @@ O Carro chefe da nossa organização é o projeto [Infodengue](https://info.deng
 Todos nosso projetos envolvem o desenvolvimento de software científico livre. Fique à vontade para entrar em contato com a equipe e começar a contribuir!
 
 ### Oportunidades
-Estamos recrutando! Confira detalhes neste PDF.
+Estamos recrutando! Confira detalhes [neste PDF](processo_seletivo_infodengue2022.pdf).
 
 <!--
 
