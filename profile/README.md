@@ -9,8 +9,8 @@ O Carro chefe da nossa organização é o projeto [Infodengue](https://info.deng
 ### Participe e Contribua!
 Todos nosso projetos envolvem o desenvolvimento de software científico livre. Fique à vontade para entrar em contato com a equipe e começar a contribuir!
 
-### Oportunidades
-Estamos recrutando! Confira detalhes [neste PDF](/profile/processo_seletivo_infodengue2022.pdf).
+### Oportunidades 🙋‍♀️
+Estamos sempre pecisando de colaboradores! [Entre em contato conosco](mailto:alerta_dengue@fiocruz.br?subject=Recrutamento) se tiver interesse em se juntar à equipe!.
 
 <!--
 
